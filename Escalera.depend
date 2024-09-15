@@ -1,0 +1,159 @@
+# depslib dependency file v1.0
+1718329447 source:c:\users\manu y char\desktop\escalera\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"MisFunciones.h"
+	"Juego.h"
+
+1718327215 c:\users\manu y char\desktop\escalera\misfunciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
+1718243369 c:\users\manu y char\desktop\escalera\juego.h
+
+1718442078 source:c:\users\manu y char\desktop\escalera experimentos\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"MisFunciones.h"
+	"Juego.h"
+	"simulado.h"
+
+1718421210 c:\users\manu y char\desktop\escalera experimentos\misfunciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
+1718438904 c:\users\manu y char\desktop\escalera experimentos\juego.h
+
+1718441682 c:\users\manu y char\desktop\escalera experimentos\simulado.h
+
+1718979370 source:c:\users\matia\desktop\prototipo\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"MisFunciones.h"
+	"Juego.h"
+	"simulado.h"
+
+1718979571 c:\users\matia\desktop\prototipo\misfunciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
+1718570200 c:\users\matia\desktop\prototipo\juego.h
+
+1718441682 c:\users\matia\desktop\prototipo\simulado.h
+
+1719534842 source:c:\users\manu y char\desktop\prototipo\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"MisFunciones.h"
+	"Juego.h"
+	"simulado.h"
+
+1719534842 c:\users\manu y char\desktop\prototipo\misfunciones.h
+	<iostream>
+	<cstdio>
+	<ctime>
+
+1718570200 c:\users\manu y char\desktop\prototipo\juego.h
+
+1719534842 c:\users\manu y char\desktop\prototipo\simulado.h
+
+1719534842 source:c:\users\manu y char\desktop\nueva carpeta\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"MisFunciones.h"
+	"Juego.h"
+	"simulado.h"
+
+1719534842 c:\users\manu y char\desktop\nueva carpeta\misfunciones.h
+	<iostream>
+	<cstdio>
+	<ctime>
+
+1718570200 c:\users\manu y char\desktop\nueva carpeta\juego.h
+
+1719542814 c:\users\manu y char\desktop\nueva carpeta\simulado.h
+
+1719534842 source:c:\users\analia\desktop\tecnicatura programacion\ultimo de los ultimos tp prog\ultimo de los ultimos\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"MisFunciones.h"
+	"Juego.h"
+	"simulado.h"
+
+1719534842 c:\users\analia\desktop\tecnicatura programacion\ultimo de los ultimos tp prog\ultimo de los ultimos\misfunciones.h
+	<iostream>
+	<cstdio>
+	<ctime>
+
+1718570200 c:\users\analia\desktop\tecnicatura programacion\ultimo de los ultimos tp prog\ultimo de los ultimos\juego.h
+
+1719542814 c:\users\analia\desktop\tecnicatura programacion\ultimo de los ultimos tp prog\ultimo de los ultimos\simulado.h
+
+1719553383 source:c:\users\analia\desktop\tecnicatura programacion\ultimo de los ultimos tp prog\version leo\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"MisFunciones.h"
+	"Juego.h"
+	"simulado.h"
+
+1719553671 c:\users\analia\desktop\tecnicatura programacion\ultimo de los ultimos tp prog\version leo\misfunciones.h
+	<iostream>
+	<cstdio>
+	<ctime>
+
+1718570200 c:\users\analia\desktop\tecnicatura programacion\ultimo de los ultimos tp prog\version leo\juego.h
+
+1719553605 c:\users\analia\desktop\tecnicatura programacion\ultimo de los ultimos tp prog\version leo\simulado.h
+
+1719576290 source:c:\users\matia\desktop\tp final escalera\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"MisFunciones.h"
+	"Juego.h"
+	"simulado.h"
+	"Windows.h"
+
+1719573708 c:\users\matia\desktop\tp final escalera\misfunciones.h
+	<iostream>
+	<cstdio>
+	<ctime>
+
+1719577061 c:\users\matia\desktop\tp final escalera\juego.h
+
+1719576432 c:\users\matia\desktop\tp final escalera\simulado.h
+
+1719576290 source:c:\users\manu y char\desktop\tp final escalera\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"MisFunciones.h"
+	"Juego.h"
+	"simulado.h"
+	"Windows.h"
+
+1719573708 c:\users\manu y char\desktop\tp final escalera\misfunciones.h
+	<iostream>
+	<cstdio>
+	<ctime>
+
+1719577061 c:\users\manu y char\desktop\tp final escalera\juego.h
+
+1719576432 c:\users\manu y char\desktop\tp final escalera\simulado.h
+
